@@ -15,24 +15,18 @@ export const experience: Milestone[] = [
     date: "Ago 2026",
     title: "Trato Fino e Park Pet",
     description:
-      "Primeiros sites de pet creche montados por iniciativa própria, sem o cliente pedir, para serem apresentados prontos. Os dois foram ao ar.",
+      "Primeiros sites de pet creche montados por iniciativa própria, sem o cliente pedir, para serem apresentados prontos. Os dois estão prontos, em processo de aprovação com os clientes.",
   },
   {
     date: "Ago 2026",
     title: "Laguna House",
     description:
-      "Primeiro projeto fechado como contrato pago. Site publicado em domínio próprio, com certificado SSL e indexação no Google Search Console.",
-  },
-  {
-    date: "Set 2026",
-    title: "Beija-Flor",
-    description:
-      "Site institucional de dez páginas apresentado à casa, em validação final com a família responsável antes de ir ao ar.",
+      "Site publicado em domínio próprio, com certificado SSL e indexação no Google Search Console.",
   },
   {
     date: "Set 2026",
     title: "Este portfólio",
     description:
-      "Construído com Next.js, TypeScript, Tailwind CSS e Framer Motion, como demonstração direta do meu trabalho em front-end.",
+      "Construído com Next.js, TypeScript, Tailwind CSS e Framer Motion, como demonstração direta do meu trabalho.",
   },
 ];

@@ -25,33 +25,26 @@ export function About() {
 
             <Reveal delay={0.12}>
               <p className="mt-8 text-lg leading-relaxed text-muted">
-                Comecei construindo sites por conta própria, sem que o
-                cliente pedisse, só para mostrar prontos. Foi assim com a
-                Trato Fino e a Park Pet: duas pet creches que ganharam um
-                site completo antes mesmo de eu apresentar a ideia. A
-                resposta foi boa o suficiente para virar um jeito de
-                trabalhar.
+                Hoje cuido de projetos de ponta a ponta: interface, código,
+                identidade visual e a parte de marketing digital que
+                sustenta o site depois que ele vai ao ar.
               </p>
             </Reveal>
 
             <Reveal delay={0.2}>
               <p className="mt-6 text-lg leading-relaxed text-muted">
-                Hoje cuido de projetos de ponta a ponta: interface, código,
-                identidade visual e a parte de marketing digital que
-                sustenta o site depois que ele vai ao ar. A Laguna House foi
-                meu primeiro contrato pago, com domínio próprio e indexação
-                no Google. Também presto serviço de marketing digital para
-                casas de repouso, cuidando de redes sociais, anúncios e
-                WordPress.
+                Também presto serviço de marketing digital, cuidando de
+                redes sociais, anúncios e outras frentes, além de construir
+                ferramentas internas para facilitar o dia a dia de quem
+                trabalha comigo.
               </p>
             </Reveal>
 
             <Reveal delay={0.28}>
               <p className="mt-6 text-lg leading-relaxed text-muted">
-                Gosto de projetos onde front-end, direção de conteúdo e
-                estratégia digital andam juntos, porque é aí que um site
-                deixa de ser só uma página bonita e passa a gerar
-                resultado.
+                Gosto de projetos onde design, código e estratégia andam
+                juntos, porque é aí que o trabalho deixa de ser só uma
+                entrega bonita e passa a resolver um problema de verdade.
               </p>
             </Reveal>
           </div>

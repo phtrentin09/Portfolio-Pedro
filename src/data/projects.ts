@@ -53,7 +53,7 @@ export const projects: Project[] = [
     category: "pet-creches",
     categoryLabel: categoryLabels["pet-creches"],
     year: "2026",
-    status: "No ar",
+    status: "Em produção",
     description:
       "Site institucional com oito páginas e blog para uma creche, pet shop e serviço de banho e tosa.",
     challenge:
@@ -61,10 +61,9 @@ export const projects: Project[] = [
     solution:
       "Montei o site inteiro por conta própria, sem o cliente pedir, levantando as informações a partir do Instagram e do perfil no Google. Identidade visual em laranja e verde da marca, formulários que abrem o WhatsApp já preenchido e um blog com conteúdo voltado para tutores de cachorro.",
     result:
-      "Site publicado e no ar, e usado depois como modelo de estrutura para os projetos seguintes de creche pet.",
+      "Site pronto, em processo de apresentação e aprovação com o cliente antes de publicar.",
     technologies: ["HTML5", "CSS3", "JavaScript", "Python (build)"],
     image: "/images/projects/tratofino.webp",
-    url: "https://tratofino.vercel.app",
     featured: false,
   },
   {
@@ -74,17 +73,16 @@ export const projects: Project[] = [
     category: "pet-creches",
     categoryLabel: categoryLabels["pet-creches"],
     year: "2026",
-    status: "No ar",
+    status: "Em produção",
     description:
       "Site institucional com nove páginas e blog, com avaliações reais do Google e mapa embutido no contato.",
     challenge:
       "A Park Pet reunia cinco anos de história e um reconhecimento da Câmara Municipal de Curitiba, mas as informações de contato estavam divergentes entre Instagram e Google, e o negócio dependia só das redes sociais para ser encontrado.",
     solution:
       "Organizei toda a informação dispersa em um site com nove páginas, cada serviço com sua própria página (creche, hotel, banho e tosa), avaliações reais do Google na página inicial, mapa do Google Maps embutido no contato e identidade em laranja e verde que segue a marca.",
-    result: "Site no ar, pronto para ser apresentado à responsável técnica da creche.",
+    result: "Site pronto, aguardando apresentação e aprovação da responsável técnica da creche.",
     technologies: ["HTML5", "CSS3", "JavaScript", "Python (build)"],
     image: "/images/projects/parkpet.webp",
-    url: "https://site-parkpet.vercel.app",
     featured: true,
   },
   {
@@ -114,7 +112,7 @@ export const projects: Project[] = [
     category: "pet-creches",
     categoryLabel: categoryLabels["pet-creches"],
     year: "2026",
-    status: "No ar",
+    status: "Em produção",
     description: "O primeiro site de creche pet que desenvolvi, hoje referência de estrutura.",
     challenge:
       "Foi o primeiro site de creche pet que desenvolvi, numa época em que ainda não existia um modelo pronto para esse tipo de negócio.",
@@ -123,27 +121,7 @@ export const projects: Project[] = [
     result: "Virou a referência de estrutura usada nos dois projetos de creche pet seguintes.",
     technologies: ["HTML5", "CSS3", "JavaScript"],
     image: "/images/projects/animacao.webp",
-    url: "https://website-animacao.vercel.app",
     featured: false,
-  },
-  {
-    slug: "beija-flor",
-    name: "Beija-Flor",
-    subtitle: "Casa de Repouso, Vista Alegre, Curitiba",
-    category: "casas-de-repouso",
-    categoryLabel: categoryLabels["casas-de-repouso"],
-    year: "2026",
-    status: "Em produção",
-    description: "Site institucional de dez páginas, em validação final com a família responsável.",
-    challenge:
-      "A casa funciona há quase doze anos no bairro Vista Alegre, mas nunca teve um site próprio, só perfis nas redes sociais e em plataformas de terceiros.",
-    solution:
-      "Site institucional com dez páginas (início, sobre, estrutura, cuidados, modalidades, galeria, trabalhe conosco, contato, política de privacidade e termos de uso), com fotos reais da casa, depoimentos do Google linkados para a avaliação original, e cuidado especial com a versão para celular.",
-    result:
-      "Site apresentado ao responsável pela casa, que gostou da proposta na primeira conversa. Aguardando validação final da família para publicar no ar.",
-    technologies: ["HTML5", "CSS3", "JavaScript", "Python (build)"],
-    image: "/images/projects/beijaflor.webp",
-    featured: true,
   },
 ];
 

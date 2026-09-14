@@ -29,7 +29,7 @@ export function Hero() {
             className="mb-6 flex items-center gap-3 text-sm text-muted"
           >
             <span className="h-px w-8 grad-bg" />
-            Desenvolvedor front-end
+            Sites, marketing digital e sistemas internos
           </motion.p>
 
           <motion.h1
@@ -48,8 +48,8 @@ export function Hero() {
             className="mt-6 max-w-xl text-lg leading-relaxed text-muted"
           >
             Construo sites e ferramentas digitais para negócios reais, do
-            primeiro rascunho ao domínio no ar. Front-end, marketing digital
-            e produtos digitais para casas de repouso e pet creches.
+            primeiro rascunho ao domínio no ar. Marketing digital, identidade
+            visual e sistemas internos sob medida.
           </motion.p>
 
           <motion.div

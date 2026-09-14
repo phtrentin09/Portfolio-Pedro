@@ -6,13 +6,13 @@ import "./globals.css";
 
 export const metadata: Metadata = {
   metadataBase: new URL("https://pedrotrentin.dev"),
-  title: "Pedro Trentin — Desenvolvedor Front-end",
+  title: "Pedro Trentin, sites e marketing digital",
   description:
-    "Portfólio de Pedro Trentin, desenvolvedor front-end e profissional de marketing digital em Curitiba. Sites e ferramentas para casas de repouso e pet creches.",
+    "Portfólio de Pedro Trentin: sites, marketing digital e sistemas internos sob medida, em Curitiba.",
   openGraph: {
-    title: "Pedro Trentin — Desenvolvedor Front-end",
+    title: "Pedro Trentin, sites e marketing digital",
     description:
-      "Sites institucionais e ferramentas internas para casas de repouso e pet creches, do primeiro rascunho ao domínio no ar.",
+      "Sites institucionais, marketing digital e ferramentas internas, do primeiro rascunho ao domínio no ar.",
     type: "website",
     locale: "pt_BR",
   },
